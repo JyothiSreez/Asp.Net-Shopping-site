@@ -1,9 +1,9 @@
 # Simple Shopping Website Template
 A website created using C#, Asp.net, html, css and SQL.
 
-###3 Description
+#### Description
 
-This has three pages.
+This website has three pages.
 
 - **Sign Up** page
 - **Login** page 
